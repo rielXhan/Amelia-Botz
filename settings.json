@@ -1,20 +1,20 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
-     "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
-     "joinGcExtream": true,
+     "namalu" : "FARHAN",
+     "nomerlu": "6285870806151",
+     "namabot": "Farhan Botz",
+     "nomerbot": "6283139426854",
+     "gender" : "male",
+     "copyright" : "FarhanXzy",
+     "namaDocument": "Farhan Botz",
+     "joinGcExtream": false,
 
      "publik": true,
      "forwarding": false,
      "Loading": false,
-     "antitroli" : false,
+     "antitroli" : true,
      
-     "autovn" : false,
+     "autovn" : true,
      "autosticker" : false,
      "autorespon" : false,
      "autotyping" : false,
@@ -29,7 +29,7 @@
      
      "Jika ada yang telpon, bot bakal kirim bug  ke penelpon jika aktikan fitur sendbug": "ke true",
        "Anticall": true,
-      "sendbug": true,
+      "sendbug": false,
      
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
@@ -59,7 +59,7 @@
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": false,
+     "autoWelcome": true,
      "welcomeType": "type3",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
