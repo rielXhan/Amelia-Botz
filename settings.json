@@ -16,13 +16,13 @@
      
      "autovn" : true,
      "autosticker" : false,
-     "autorespon" : false,
-     "autotyping" : false,
+     "autorespon" : true,
+     "autotyping" : true,
      "autoread" : true,
      "autoblockcmd" : false, 
      "autobio" : true,
      "autoLevel" : true,
-     "AutoClearChat": true,
+     "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
      "jumlahTroli": 2022,
@@ -65,7 +65,7 @@
      },    
      
      "setMenu": "document",    
-      "setBc":  "lokasi",  
+      "setBc":  "troli",  
      "setReply": "web",  
      "setQuoted": "ftoko",
      
