@@ -11,11 +11,11 @@
 
      "publik": true,
      "forwarding": false,
-     "Loading": false,
+     "Loading": true,
      "antitroli" : true,
      
      "autovn" : true,
-     "autosticker" : false,
+     "autosticker" : true,
      "autorespon" : true,
      "autotyping" : true,
      "autoread" : true,
